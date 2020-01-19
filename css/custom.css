@@ -7,6 +7,45 @@
  */
 /*LIST*/
 
+
+
+.carousel-1, .carousel-2, .carousel-3, .carousel-4 {
+	height: 667px;
+}
+
+.carousel-1 h1, .carousel-2 h1, .carousel-3 h1, .carousel-4 h1{
+	font-family: "dosis";
+	font-weight: 600;
+	color:#FFF;
+	text-shadow: 0px 1px 10px #C7C8CA, 0px 2px 10px #575757, 0px 3px 10px #2f451d, 0px 4px 10px #0e2b48;
+}
+
+.carousel-1{
+	background-image: url(../img/rap.jpg);
+}
+
+.carousel-2{
+	background-image: url(../img/gry.jpg);
+}
+
+.carousel-3{
+	background-image: url(../img/trn.jpg);
+}
+
+.carousel-4{
+	background-image: url(../img/grn.jpg);
+}
+
+#hero-slider .overlay{
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	background: transparent url("../pics/patternMeshBk.png") repeat scroll left top;
+	z-index:2;
+}
+
+
+
 ul .list{
 	list-style-type: square;
 	list-style-position: inside;
