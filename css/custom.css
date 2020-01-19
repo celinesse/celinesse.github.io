@@ -352,12 +352,12 @@ h3{
 	font-family:'DOSIS';
 	font-weight:700;
 	text-transform:uppercase;
-	color:#fff;
+	color:#491f52;
 	line-height:30px;
 }
 
 .marktitl{
-	letter-spacing: 10px;
+    letter-spacing: 10px;
 }
 
 
@@ -452,7 +452,7 @@ ul.social li a:after {
 .cl-effect-8 a, .cl-effect-8 text{
 	font-family: 'dosis';
 	font-style: normal;
-	color: #333;
+	color: #433141;
 }
 
 
@@ -464,7 +464,7 @@ ul.social li a:after {
 	left: 0;
 	width: 100%;
 	height: 100%;
-	border: 3px solid #354856;
+	border: 3px solid #433141;
 	content: '';
 	-webkit-transition: -webkit-transform 0.3s, opacity 0.3s;
 	-moz-transition: -moz-transform 0.3s, opacity 0.3s;
@@ -472,7 +472,7 @@ ul.social li a:after {
 }
 
 .cl-effect-8::after  {
-	border-color: #354856;
+	border-color: #433141;
 	opacity: 0;
 	-webkit-transform: translateY(-7px) translateX(6px);
 	-moz-transform: translateY(-7px) translateX(6px);
@@ -550,7 +550,7 @@ h6{font-family: source code pro; font-size: 19px;}
 #testo-slide img {box-shadow: 0px 2px 2px #0e2b48;}
 
 
-.bigtext {color:#8c7b97}
+.bigtext {color:#433141}
 
 .padding-0 {padding: 1px 0 0 0}
 
